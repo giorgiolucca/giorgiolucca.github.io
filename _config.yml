@@ -1,0 +1,25 @@
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 3000
+safe: true
+
+url: http://giorgiolucca.github.com/
+baseurl: /
+title: Giorgio Lucca
+author: Giorgio Lucca
+description: Personal page
+avatar: profile.png
+email: giorgiolucca@hotmail.com
+github: giorgiolucca
+twitter: giorgiolucca
+linkedin: giorgio-lucca-alves-bahia-78708048
+stackoverflow: users/2635463/giorgio-lucca
+#disqus:
+#google_analytics:
+
+exclude: [vendor]
